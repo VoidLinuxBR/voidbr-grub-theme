@@ -1,1 +1,3 @@
-# chili-void-grub-theme
+# voidbr-grub-theme
+
+Void theme for grub
