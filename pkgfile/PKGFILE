@@ -70,7 +70,6 @@ post_install() {
 		fi
 	fi
 
-	log "Finalizando instalação"
 }
 
 pre_upgrade() {
